@@ -1,0 +1,1 @@
+Stock Trading App is a React based web application created using Finnhub Stock API(https://finnhub.io/). Apexcharts(https://apexcharts.com/) is used for chart creation.
